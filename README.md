@@ -197,19 +197,6 @@ Exemplo de resposta:
 
 ---
 
-# Aplicação Mobile
-
-O aplicativo mobile foi desenvolvido em React Native utilizando Expo.
-
-## Funcionalidades
-- Consulta de veículos
-- Cadastro de veículos
-- Envio de prompts
-- Exibição de respostas da IA
-- Integração com API REST
-
----
-
 # Como Executar o Projeto
 
 ## Backend
